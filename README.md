@@ -5,3 +5,4 @@ I am a devlopper junior.
 - 😄 I love digital technology. Since 2018, I enrolled at My Digital School in order to continue to progress in the digital world.
 - 👯 I am planning a career as a web developer. I work on my own and during school lessons on personal projects in order to have all the necessary skills for my future employer.
 - I am curious, ambitious, hardworking and passionate.
+![Cover](https://github.com/davgui35/davgui35/blob/master/img/xps-dell.jpg)
